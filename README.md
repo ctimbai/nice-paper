@@ -22,3 +22,7 @@
 
 
 
+## Linux
+
+[epoll本质，最强分析](https://zhuanlan.zhihu.com/p/63179839)
+
