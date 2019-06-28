@@ -1,3 +1,7 @@
+## 云计算
+
+[学习云计算](<http://www.xuexiyunjisuan.com/>)
+
 ## 云网络
 
 [Linux网络栈解剖](https://ieevee.com/tech/2017/06/12/kernel-network-stack.html#)
@@ -22,11 +26,23 @@
 
 
 
+## DPDK
+
+[基于DPDK的OvS中vHost user多队列配置](https://software.intel.com/en-us/articles/configure-vhost-user-multiqueue-for-ovs-with-dpdk)
+
+[使用基于DPDK的OvS进行VM间NFV应用](https://software.intel.com/en-us/articles/using-open-vswitch-with-dpdk-for-inter-vm-nfv-applications)
+
+[OvS-DPDK中vhost user的NUMA感知](https://software.intel.com/en-us/articles/vhost-user-numa-awareness-in-open-vswitch-with-dpdk)
+
+[基于DPDK的OvS中的Pdump](https://software.intel.com/en-us/articles/dpdk-pdump-in-open-vswitch-with-dpdk)
+
+[基于DPDK的OvS概述](https://mp.weixin.qq.com/s/HJixu8WpqIJHugXVujY_TQ)
+
 ## Go 
 
 [Go 语言速成指南](https://learnku.com/golang/t/24715#5442df)
 
-
+[Go Web 开发资料](<https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md>)
 
 ## Linux
 
