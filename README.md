@@ -12,6 +12,10 @@
 
 [虚拟化和容器技术详解](http://c.biancheng.net/view/3887.html)
 
+[TCP socket 是如何工作的](https://colobu.com/2019/07/27/How-TCP-Sockets-Work/)
+
+[tcpdump示例教程](https://colobu.com/2019/07/16/a-tcpdump-tutorial-with-examples/)
+
 ## Kubernetes
 
 [墙内安装kubernetes教程](https://ieevee.com/tech/2018/09/01/kubeadm.html)
@@ -23,6 +27,8 @@
 [Kubernetes 架构剖析](https://mp.weixin.qq.com/s/UMRjkoaZB03CLkT8Vrtizw)
 
 [Kubernetes network policies 网络策略](https://ieevee.com/tech/2018/08/01/k8s-netpolicy.html#)
+
+[K8S多集群架构](https://www.infoq.cn/article/sbwSX8ypxgID2-SB723K)
 
 
 
