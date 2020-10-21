@@ -1,0 +1,8 @@
+- Ubuntu 18.0 的用户请学习新的 IP 地址配置方式
+- CentOS 8 的用户请学习新的 IP 地址配置方式
+- 交换机有几张表
+- 
+- IPv6 的三类地址，你都掌握了吗？
+- TCP保持可靠性的机制有哪些？你是否都答全了？
+- VxLAN VTEP 的地址如何学习？https://fuckcloudnative.io/posts/vxlan-protocol-introduction/ https://mp.weixin.qq.com/s/7x0TDlWl6VGKmcOUmTFazA https://www.sdnlab.com/19717.html
+- VLAN 和 VxLAN 的区别https://mp.weixin.qq.com/s/7x0TDlWl6VGKmcOUmTFazA
