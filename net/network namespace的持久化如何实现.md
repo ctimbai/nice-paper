@@ -1,0 +1,1 @@
+https://www.junmajinlong.com/virtual/namespace/network_namespace/
