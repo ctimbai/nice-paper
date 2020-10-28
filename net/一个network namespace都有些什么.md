@@ -1,3 +1,7 @@
+> 21 世纪最宝贵的是时间和精力，人们对于碎片化阅读越来越挑剔，既不想花太多时间，又想开卷有益，而摆在眼前的长篇大论一来废话太多，二来耗时耗力，看后还是两眼发懵，所以我们力求在五分钟之内讲懂一个知识点，不贪多、不废话，关注我们，让网络不再难懂。
+
+
+
 很多文章都会告诉你，一个 Network Namespace 有自己独立的网络环境，包括：网卡设备（Loopback Device）、端口、socket、路由表、iptables 规则、网络协议栈等。
 
 但究竟是不是这样，我们就从代码上来一探究竟。
@@ -70,6 +74,10 @@ struct net {
 - `/sys/class/net` 目录
 - `/proc/sys/net` 目录
 - ...
+
+
+
+文章到此，基本解答了题目提出的问题，如果你还想深入了解 Network Namespace 的东西，可以顺着 `struct task_struct` 这个结构去看，这是进程的结构体定义，因为 Namespace 隔离的是进程的资源，所以，Network Namespace 也是进程资源的一部分，除此之外，还有 UTS、IPC、PID、Mount、User 这几种 Namespace，大家如果对源码感兴趣，可以顺着进程 `task_struct` 去了解。
 
 
 
